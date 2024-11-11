@@ -11,4 +11,4 @@ This is only static express application
 ## Usage
 
 - Run `npm install`
-- Run `npm start`
+- Run `node app.js`
